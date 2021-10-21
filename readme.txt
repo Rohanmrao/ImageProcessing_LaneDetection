@@ -1,8 +1,3 @@
-____Singularity Software____
-
-Creators- Sanjan D Murthy (RVCE) and Rohan Mahesh Rao (PESU RR) 
-			
-			Created on -22/5/21
 
 
 Important info - 
