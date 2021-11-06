@@ -4,7 +4,7 @@ from time import sleep
 
 
 #---------------------------------ALL VARIABLES GO BELOW----------------------------------------------------
-path = 'C:/Users/Ronnie/Downloads/testvid_full_pov.mp4'	# media path make 0 for webcam
+path = '---add path here----'	# media path make 0 for webcam
 			#'C:/Users/Ronnie/Downloads/testvid_full_pov.mp4'
 			#/Users/sanjandmurthy/Desktop/Frojact OAsisi/yet.mp4
 lb = 5														
